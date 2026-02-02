@@ -1,4 +1,3 @@
-# tenx_assessment_content_generation
 # AI Content Generation - Assessment Exploration
 
 ## Overview
